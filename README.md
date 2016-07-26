@@ -1,3 +1,3 @@
 # divingintoJs
 
-All I could find about javascript
+Essential but tricky concepts in javascript 
